@@ -37,4 +37,4 @@ o Git/GitHub: For managing application source code.
 3. CI/CD Pipeline:
 o CI/CD pipelines for seamless development, testing, and deployment.
 4. Deployment:
-o Kubernetes: For deploying scalable Kubernetes clusters
+o Kubernetes: For deploying scalable Kubernetes cluster
